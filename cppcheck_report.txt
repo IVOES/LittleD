@@ -1,0 +1,302 @@
+src/dbindex/dbindex.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbindex/dbindex.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dblogic/compare_tuple.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dblogic/compare_tuple.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dblogic/eet.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 46 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dblogic/eet.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbmm/db_query_mm.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 46 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbmm/db_query_mm.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbobjects/relation.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 46 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbobjects/relation.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbobjects/tuple.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 46 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbobjects/tuple.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/aggregate.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/aggregate.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/db_ops.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/db_ops.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/ntjoin.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/ntjoin.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/osijoin.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/osijoin.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/project.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/project.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/scan.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/scan.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/select.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/select.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbops/sort.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbops/sort.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dboutput/query_output.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dboutput/query_output.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbparser/dbcreate.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 50 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbparser/dbcreate.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbparser/dbinsert.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbparser/dbinsert.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbparser/dblexer.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 50 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbparser/dblexer.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbparser/dbparseexpr.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 50 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbparser/dbparseexpr.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbparser/dbparser.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 53 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbparser/dbparser.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/dbstorage/dbstorage.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 41 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/dbstorage/dbstorage.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/CuTest.c:307:6: style: The scope of the variable 'i' can be reduced. [variableScope]
+ int i;
+     ^
+src/unit_tests/CuTest.c:308:6: style: The scope of the variable 'failCount' can be reduced. [variableScope]
+ int failCount = 0;
+     ^
+src/unit_tests/aggregate/aggregate_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/aggregate/aggregate_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/db_query_mm/db_query_mm_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 45 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/db_query_mm/db_query_mm_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/dbcreate/dbcreate_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 50 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/dbcreate/dbcreate_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/dbinsert/dbinsert_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 51 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/dbinsert/dbinsert_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/dblexer/dblexer_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/dblexer/dblexer_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/dbparseexpr/dbparseexpr_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 49 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/dbparseexpr/dbparseexpr_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/dbparser/dbparser_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 51 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/dbparser/dbparser_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/eet/eet_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/eet/eet_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/ntjoin/ntjoin_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/ntjoin/ntjoin_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/osijoin/osijoin_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/osijoin/osijoin_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/project/project_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/project/project_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/scan/scan_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 46 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/scan/scan_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/select/select_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/select/select_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/sort/sort_ut.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/unit_tests/sort/sort_ut.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/utils/gen_bench_relations.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/utils/gen_bench_relations.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/utils/gen_test_indexes.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 47 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/utils/gen_test_indexes.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/utils/gen_test_relations.c:0:0: information: Too many #ifdef configurations - cppcheck only checks 12 of 50 configurations. Use --force to check all configurations. [toomanyconfigs]
+
+^
+src/utils/gen_test_relations.c:0:0: information: This file is not analyzed. Cppcheck failed to extract a valid configuration. Use -v for more details. [noValidConfiguration]
+
+^
+src/unit_tests/CuTest.c:214:0: style: The function 'CuAssertDblEquals_LineMsg' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:205:0: style: The function 'CuAssertIntEquals_LineMsg' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:224:0: style: The function 'CuAssertPtrEquals_LineMsg' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:180:0: style: The function 'CuAssertStrEquals_LineMsg' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:174:0: style: The function 'CuAssert_Line' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:78:0: style: The function 'CuStringAppendChar' is never used. [unusedFunction]
+
+^
+src/unit_tests/CuTest.c:122:0: style: The function 'CuTestNew' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:89:0: style: The function 'SD_File_Begin' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:78:0: style: The function 'SD_File_Close' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:36:0: style: The function 'SD_File_Exists' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:41:0: style: The function 'SD_File_Open' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:73:0: style: The function 'SD_File_Position' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:62:0: style: The function 'SD_File_Read' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:84:0: style: The function 'SD_File_Remove' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:67:0: style: The function 'SD_File_Seek' is never used. [unusedFunction]
+
+^
+src/dbstorage/SD_c_iface.cpp:57:0: style: The function 'SD_File_Write' is never used. [unusedFunction]
+
+^
+src/arduinodebug.cpp:49:0: style: The function 'ad_printchar' is never used. [unusedFunction]
+
+^
+src/arduinodebug.cpp:31:0: style: The function 'ad_printint' is never used. [unusedFunction]
+
+^
+src/arduinodebug.cpp:43:0: style: The function 'ad_printint_bin' is never used. [unusedFunction]
+
+^
+src/arduinodebug.cpp:37:0: style: The function 'ad_printint_hex' is never used. [unusedFunction]
+
+^
+src/arduinodebug.cpp:25:0: style: The function 'ad_printstr' is never used. [unusedFunction]
+
+^
+src/utils/cfs_init_test_relations.c:27:0: style: The function 'integerlength' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
